@@ -1,1 +1,1 @@
-graph BDD { n140509543653456 [label=1,shape=box]; n140509543649232 [label=0,shape=box]; n140508928744016 [label="x4",shape=circle]; n140508928744016 -- n140509543653456 [label=0,style=dashed]; n140508928744016 -- n140509543649232 [label=1]; }
+graph BDD { n139835133133136 [label=1,shape=box]; n139835133133392 [label=0,shape=box]; n139834783444944 [label="x4",shape=circle]; n139834783444944 -- n139835133133136 [label=0,style=dashed]; n139834783444944 -- n139835133133392 [label=1]; }
